@@ -1,7 +1,7 @@
 # Welcome!
 
 ## I'm Felipe!
-:computer: I'm Full-Stack Developer!
+:computer: I'm Full-Stack Developer! (In progress)
 
 :house_with_garden: I’m from Brazil.
 
